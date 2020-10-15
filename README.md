@@ -16,8 +16,9 @@ Here are a few samples taken from the dataset:
 
 ![alt text](discLimage.PNG)
 
-## Descriptors
-The descriptors can be found in the file [disc_caption_all.json](disc_caption_all.json).
 
 ## Images
 The images used for the data collection can be found [here](https://drive.google.com/drive/folders/1aL-zvjFEbxcDd9AcXLpbf82pX30-b2gH?usp=sharing).
+
+## Descriptions
+The descriptions collected from the Amazon MechTurk study can be found in the file [disc_caption_all.json](disc_caption_all.json).
