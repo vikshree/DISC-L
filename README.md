@@ -24,4 +24,4 @@ The images used for the data collection can be found [here](https://drive.google
 The descriptions collected from the Amazon MechTurk study can be found in the file [disc_caption_all.json](disc_caption_all.json).
 
 ## Descriptors for danger estimation
-We have used 5 set of descriptors for collapse and fire scene to assess the danger level. The descriptors can be found in [Appendices.docx](Appendices.docx).
+We have used 5 set of descriptors for collapse and fire scene to assess the danger level, which are treated as descriptions provided by the "commander in chief". The descriptors can be found in [Appendices.docx](Appendices.docx).
