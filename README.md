@@ -16,6 +16,7 @@ Here are a few samples taken from the dataset:
 
 ![alt text](discLimage.PNG)
 
+Please refer to [SamplesData.pdf](SamplesData.pdf) for additional sample images and responses. We show both: accepted and rejected responses for each image.
 
 ## Images
 The images used for the data collection can be found [here](https://drive.google.com/drive/folders/1aL-zvjFEbxcDd9AcXLpbf82pX30-b2gH?usp=sharing).
