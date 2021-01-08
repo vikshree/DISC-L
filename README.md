@@ -26,9 +26,11 @@ The descriptions collected from the Amazon MechTurk study can be found in the fi
 
 ## Summary
 DISC-L consists of descriptions of emergency situations from 720 unique AMT users. A histogram of word-counts can be seen below:
+
 ![alt text](descriptionLengthAMT_new.png)
 
-The wordcloud below shows the most frequently used words in the dataset
+The wordcloud below shows the most frequently used words in the responses:
+
 ![alt text](wordCloudLarge.png)
 
 
