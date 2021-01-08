@@ -24,5 +24,13 @@ The images used for the data collection can be found [here](https://drive.google
 ## Descriptions
 The descriptions collected from the Amazon MechTurk study can be found in the file [disc_caption_all.json](disc_caption_all.json).
 
+## Summary
+DISC-L consists of descriptions of emergency situations from 720 unique AMT users. A histogram of word-counts can be seen below:
+![alt text](descriptionLengthAMT_new.PNG)
+
+The wordcloud below shows the most frequently used words in the dataset
+![alt text](wordCloudLarge.PNG)
+
+
 ## Descriptors for danger estimation
 We have used 5 set of descriptors for collapse and fire scene to assess the danger level, which are treated as descriptions provided by the "commander in chief". The descriptors can be found in [Appendices.docx](Appendices.docx).
