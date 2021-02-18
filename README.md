@@ -6,7 +6,7 @@ If you use the dataset, please cite our paper:
 @article{shree2021,
   title={Exploiting  Natural  Language  for  Efficient  Risk-AwareMulti-robot  SaR  Planning},
   author={Shree, Vikram, and Asfora, Beatriz, and Zheng, Rachel, and Hong, Samantha, and Banfi, Jacopo, and Campbell, Mark},
-  journal={accepted for publication in R-AL},
+  journal={accepted for publication in RA-L},
   year={2021}
 }
 ```
