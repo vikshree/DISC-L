@@ -1,7 +1,7 @@
 # DISC-L
 The DISC-Language dataset consists of image-description pairs for multimodal scene perception. It consists of 1000 images taken from [DISC dataset](https://www.ri.cmu.edu/wp-content/uploads/2019/06/IROS19_DISC_final_v1.pdf)
 
-If you use the dataset, please cite our paper:
+If you use the dataset, please cite our [paper:](https://arxiv.org/pdf/2104.03809.pdf)
 ```
 @article{shree2021,
   title={Exploiting  Natural  Language  for  Efficient  Risk-AwareMulti-robot  SaR  Planning},
