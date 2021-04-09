@@ -3,7 +3,16 @@ The DISC-Language dataset consists of image-description pairs for multimodal sce
 
 If you use the dataset, please cite our [paper:](https://arxiv.org/pdf/2104.03809.pdf)
 ```
-@ARTICLE{9366368,  author={V. {Shree} and B. {Asfora} and R. {Zheng} and S. {Hong} and J. {Banfi} and M. {Campbell}},  journal={IEEE Robotics and Automation Letters},   title={Exploiting Natural Language for Efficient Risk-Aware Multi-Robot SaR Planning},   year={2021},  volume={6},  number={2},  pages={3152-3159},  doi={10.1109/LRA.2021.3062798}}
+@article{shree2021exploiting,
+  title={Exploiting Natural Language for Efficient Risk-Aware Multi-Robot SaR Planning},
+  author={Shree, Vikram and Asfora, Beatriz and Zheng, Rachel and Hong, Samantha and Banfi, Jacopo and Campbell, Mark},
+  journal={IEEE Robotics and Automation Letters},
+  volume={6},
+  number={2},
+  pages={3152--3159},
+  year={2021},
+  publisher={IEEE}
+}
 ```
 
 ## Samples
